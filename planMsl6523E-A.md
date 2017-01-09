@@ -7,7 +7,7 @@ https://admission.umontreal.ca/cours-et-horaires/cours/msl-6523/
 
 Cours optionnel, 3 crédits
 
-Horaire : mardi, 16h–19h
+Horaire : Lundi, 16h–19h
 
 Local : Lionel-Groulx, C-2117
 
