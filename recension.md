@@ -8,7 +8,7 @@ version: 0.2
 
 # Note méthodologique pour la recension des expositions numériques
 
-Les recension consiste en des commentaires critiques d’exposition numériques canadiennes. Le choix des sites pour la recension doit être effectué en fonction de la qualité muséale du dispositif numérique étudié. Il doit s’agir de l’analyse d’un cas Canadien car votre texte sera destiné à alimenter une base documentaire sur la muséologie numérique au Canada et au Québec en particulier. Vous pouvez choisir un exemple ancien en tenant compte des possibilités techniques de l’époque de la réalisation et des problématiques de consultation actuelles liées à la conservation des expositions numériques.
+Les recensions consistent en des commentaires critiques d’exposition numériques canadiennes. Le choix des sites pour la recension doit être effectué en fonction de la qualité muséale du dispositif numérique étudié. Il doit s’agir de l’analyse d’un cas Canadien car votre texte sera destiné à alimenter une base documentaire sur la muséologie numérique au Canada et au Québec en particulier. Vous pouvez choisir un exemple ancien en tenant compte des possibilités techniques de l’époque de la réalisation et des problématiques de consultation actuelles liées à la conservation des expositions numériques.
 
 Au moins la moitié de votre texte doit être consacrée à une présentation fidèle de la réalisation et sa description. Le reste de l’espace doit être consacré à la présentation des forces et faiblesses de la réalisation, de la contribution de l’exposition à son sujet et de la valeur de ses propositions dans le contexte des réalisations contemporaines, ainsi que du public ciblé.
 
